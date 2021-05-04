@@ -22,7 +22,7 @@ show_digit <- function(df, n, col = grDevices::gray(12:1 / 12), ...) {
 }
 
 # Base URL of the the MNIST digits dataset website
-mnist_url <- "https://github.com/caixin1998/mnist/blob/master"
+mnist_url <- "."
 
 #' Download MNIST
 #'
